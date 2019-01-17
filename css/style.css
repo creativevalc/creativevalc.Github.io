@@ -394,7 +394,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #FEE856;
 }
 #fh5co-features .services-padding {
-  padding: 7em 0;
+  padding: 5em 0;
 }
 #fh5co-features .feature-left {
   margin-bottom: 40px;
@@ -618,7 +618,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-content-section,
 #fh5co-contact,
 #fh5co-footer {
-  padding: 7em 0;
+  padding: 3em 0;
   clear: both;
 }
 @media screen and (max-width: 768px) {
